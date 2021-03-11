@@ -11,3 +11,8 @@ console.log(saudacao)
 //     res.write('Bom dia')
 //     res.end()
 // }).listen(8080)
+
+module.exports = {
+  usuario:'login',
+  senha:'senha'
+}
